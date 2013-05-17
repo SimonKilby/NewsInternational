@@ -1,0 +1,4 @@
+NewsInternational
+=================
+
+Coding exercise
